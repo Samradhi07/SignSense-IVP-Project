@@ -1,4 +1,5 @@
 # SignSense ISL — Advanced IVP Project
+Members- Samradhi Jain, Girishma Goyal
 
 ## What this project does
 - Real-time webcam hand tracking using MediaPipe Hands.
